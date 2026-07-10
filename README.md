@@ -29,3 +29,4 @@ This infographic explains the differences between:
 | Bandwidth | 1 Gbps |
 
 > Perfect for DevOps, SRE, Platform Engineering, Kubernetes, Cloud, and Networking interview preparation.
+<img width="1536" height="1024" alt="ChatGPT Image Jul 11, 2026, 12_37_00 AM" src="https://github.com/user-attachments/assets/2d097a9b-c138-426c-9962-e4427cd05559" />
